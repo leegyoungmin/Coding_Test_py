@@ -1,4 +1,4 @@
-
+# https://school.programmers.co.kr/learn/courses/30/lessons/76502?language=python3
 def lotation(s, cnt):
     if cnt == 0:
         return s
