@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=python3
+
 """
 - Moves에 있는 값은 뽑을 수 있는 것이 된다. 그렇다면, 배열을 돌면서, 0이 아닌 곳이 나올 때까지 loop를 돌고
 나오면 뽑아낸 후, 0으로 변경
