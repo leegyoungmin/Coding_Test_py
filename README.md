@@ -12,3 +12,4 @@ Python을 이용해서 알고리즘 문제 기록합니다.
 | 4.24 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | ❌ |
 | 4.25 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=python3) | ✅ |
 | 4.27 | SQL 문제 풀이 | ✅ |
+| 4.28 | [표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303?language=python3) | ❌ |
