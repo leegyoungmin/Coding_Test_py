@@ -1,13 +1,7 @@
 # https://www.acmicpc.net/problem/1158
 
+# My Solution
 """
-1 2 3 4 5 6 7
-
-1번째 제거 -> 3 [1,2,4,5,6,7]
-2번째 제거 -> 
-
-"""
-
 NK = input().split(" ")
 n = int(NK[0])
 k = int(NK[1])
@@ -34,3 +28,4 @@ for idx in range(len(result)):
     else:
         print(f'{result[idx]}', end="")
 print(">", end="")
+"""

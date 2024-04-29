@@ -19,7 +19,7 @@ def solution(board, moves):
                 board[r][c - 1] = 0
 
                 if len(stack) == 0:
-                    stack.append(item)
+                    stack.append(item)햣
                 else:
                     last = stack[-1]
 
