@@ -14,3 +14,8 @@ Python을 이용해서 알고리즘 문제 기록합니다.
 | 4.27 | SQL 문제 풀이 | ✅ |
 | 4.28 | [표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303?language=python3) | ❌ |
 | 4.29 | [요세푸스문제](https://www.acmicpc.net/problem/1158) | ❌ |
+
+### 5월
+| 날짜   | 문제 |    체크    |
+|------|--|:--------:|
+| 5.1 |[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)| ✅ |
