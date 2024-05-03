@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/42586
 """
 각 기능은 100%가 되는 경우에 반영이 된다.
 개발 속도가 모두 다르기 때문에 뒤에 있는 기능이 앞에 있는 기능보다 먼저 개발될 수 있다.
