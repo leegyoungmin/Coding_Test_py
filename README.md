@@ -20,6 +20,6 @@ Python을 이용해서 알고리즘 문제 기록합니다.
 |------|--|:--------:|
 | 5.1 |[기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)| ✅ |
 | 5.2 |-| - |
-| 5.3 |[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/15994)|  |
+| 5.3 |[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/15994)| ✅ |
 | 5.4 |[완주하지 못하는 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|  |
 | 5.5 |[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|  |
