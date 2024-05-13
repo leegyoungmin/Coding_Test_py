@@ -5,6 +5,7 @@ N개의 높이가 다른 탑을 왼쪽에서 오른쪽으로 세운다.
 반복문에서 스택에 쌓인 놈들 중에 자신보다 큰 놈의 개수를 찾는다.
 """
 
+# 답안 - 실패....
 import sys
 
 input = sys.stdin.readline
@@ -23,5 +24,5 @@ for i in range(len(tops)):
             answer[i] = stack[-1][0]+1
             break
     stack.append((i,tops[i]))
-    
+
 print(*answer)

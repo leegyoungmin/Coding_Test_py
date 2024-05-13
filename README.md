@@ -25,6 +25,12 @@ Python을 이용해서 알고리즘 문제 기록합니다.
 | 5.5 |[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)| ✅ |
 | 5.6 | - | - |
 | 5.7 |[탑](https://www.acmicpc.net/problem/2493)| ❌ |
-| 5.8 |[스택 수열](https://www.acmicpc.net/problem/1874)| |
-| 5.9 |[문자열 폭발](https://www.acmicpc.net/problem/9935)| |
-| 5.10 |[코딩은 예쁘게](https://www.acmicpc.net/problem/2879)| |
+| 5.8 | - | - |
+| 5.9 | - | - |
+| 5.10 | - | - |
+| 5.11 | - | - |
+| 5.12 | - | - |
+| 5.13 | - | - |
+| 5.14 |[스택 수열](https://www.acmicpc.net/problem/1874)| |
+| 5.15 |[문자열 폭발](https://www.acmicpc.net/problem/9935)| |
+| 5.16 |[코딩은 예쁘게](https://www.acmicpc.net/problem/2879)| |
