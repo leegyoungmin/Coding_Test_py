@@ -34,8 +34,6 @@ Python을 이용해서 알고리즘 문제 기록합니다.
 | 5.14 |[스택 수열](https://www.acmicpc.net/problem/1874)| ✅ |
 | 5.15 |[문자열 폭발](https://www.acmicpc.net/problem/9935)| ✅ |
 | 5.16 |[코딩은 예쁘게](https://www.acmicpc.net/problem/2879)| ❌ |
-| 5.17 |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)| |
-| 5.17 |[신고결과받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)| |
-| 5.17 |[메뉴리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)| |
-| 5.17 |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)| |
-| 5.17 |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)| |
+| 5.17 |-|-|
+| 5.18 |-|-|
+| 5.19 |[메뉴리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)| |
